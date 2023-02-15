@@ -1,0 +1,50 @@
+AL, Alabama
+AK, Alaska
+AR, Arkansas
+AZ, Arizona
+CA, California
+CO, Colorado
+CT, Connecticut
+DE, Delaware
+DC, District of Columbia
+FL, Florida
+GA, Georgia
+ID, Idaho
+IA, Iowa
+IL, Illinois
+IN, Indiana
+KS, Kansas
+KY, Kentucky
+LA, Louisiana
+MA, Massachusetts
+ME, Maine
+MS, Mississippi
+MO, Missouri
+MT, Montana
+MD, Maryland
+MI, Michigan
+MN, Minnesota
+NE, Nebraska
+NC, North Carolina
+ND, North Dakota
+NH, New Hampshire
+NJ, New Jersey
+NM, New Mexico
+NV, Nevada
+NY, New York
+OR, Oregon
+OK, Oklahoma
+OH, Ohio
+PA, Pennsylvania
+RI, Rhode Island
+SC, South Carolina
+SD, South Dakota
+TN, Tennessee
+TX, Texas
+UT, Utah
+VA, Virginia
+VT, Vermont
+WA, Washington
+WI, Wisconsin
+WY, Wyoming
+WV, West Virginia
